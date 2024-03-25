@@ -35,28 +35,24 @@ Overall, this lab allowed me to gain practical experience in building, training,
 
 ## Instructions
 
-1. Clone this repository:
 
-```
-git clone https://github.com/aaiaa-1/Lab2-CNN-VIT.git
-```
 
-2. Install the dependencies:
+1. Install the dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-3. Download the MNIST dataset and place it in the `data/mnist/` directory.
+2. Download the MNIST dataset and place it in the `data/mnist/` directory.
 
-4. Run the desired model script:
+3. Run the desired model script:
 
 ```
 python src/cnn_classifier.ipynb 
 python src/vision_transformer-mnist.ipynb
 ```
 
-5. Follow the prompts to train the model and evaluate its performance.
+4. Follow the prompts to train the model and evaluate its performance.
 
 
 ## Acknowledgements
@@ -66,6 +62,6 @@ python src/vision_transformer-mnist.ipynb
 
 ## Contact Information
 
-For any questions or issues, please contact aayahamzaa@gmail.
+For any questions or issues, please contact mohammedelbakkalielammari@gmail.
 
 ---
